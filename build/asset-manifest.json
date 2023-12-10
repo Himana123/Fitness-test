@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fitness-app/static/css/main.9ffdd983.css",
-    "main.js": "/fitness-app/static/js/main.ecbfb096.js",
-    "static/js/787.21ebf879.chunk.js": "/fitness-app/static/js/787.21ebf879.chunk.js",
-    "index.html": "/fitness-app/index.html",
-    "main.9ffdd983.css.map": "/fitness-app/static/css/main.9ffdd983.css.map",
-    "main.ecbfb096.js.map": "/fitness-app/static/js/main.ecbfb096.js.map",
-    "787.21ebf879.chunk.js.map": "/fitness-app/static/js/787.21ebf879.chunk.js.map"
+    "main.css": "/Fitness-test/static/css/main.9ffdd983.css",
+    "main.js": "/Fitness-test/static/js/main.5fb7bd38.js",
+    "static/js/787.21ebf879.chunk.js": "/Fitness-test/static/js/787.21ebf879.chunk.js",
+    "index.html": "/Fitness-test/index.html",
+    "main.9ffdd983.css.map": "/Fitness-test/static/css/main.9ffdd983.css.map",
+    "main.5fb7bd38.js.map": "/Fitness-test/static/js/main.5fb7bd38.js.map",
+    "787.21ebf879.chunk.js.map": "/Fitness-test/static/js/787.21ebf879.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ffdd983.css",
-    "static/js/main.ecbfb096.js"
+    "static/js/main.5fb7bd38.js"
   ]
 }
