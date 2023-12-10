@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.calendar-icon-container {
+  cursor: pointer;
+  margin-left: 20px; /* Adjust the margin as needed */
+}
+
+.calendar-container {
+  margin-left: 20px; /* Adjust the margin as needed */
+}
+
